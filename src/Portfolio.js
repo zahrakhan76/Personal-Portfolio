@@ -129,7 +129,7 @@ const Portfolio = () => {
     description: "Smart invoice management app for uploading, scanning, and organizing invoices. Includes tracking, forwarding, and detailed filters with secure login, notifications, and profile settings.",
     tech: ["Figma", "UI/UX", "FinTech Design"],
     image: "/Scanvo-app.png",
-    link: "https://www.figma.com/"
+    link: "https://www.figma.com/design/QhMnu2fO9JGBMPdWehGAqL/Scanvo-app?node-id=0-1&p=f&t=mdC4SRf6yGrUaEPK-0"
   },
   {
     title: "SemaTrack – Health & Fitness | UI/UX Designer",
