@@ -122,7 +122,7 @@ const Portfolio = () => {
     description: "Designed a minimal habit tracking app using Figma, with intuitive daily tracking and habit visualization to enhance user consistency.",
     tech: ["Figma", "UI/UX", "Prototyping"],
     image: "/fitflow.png",
-    link: "https://www.figma.com/"
+    link: "https://www.figma.com/design/1RZ0mssWGO9S7AN822zTDC/Habit-Tracker-Mobile-App?node-id=0-1&p=f&t=y6Tf1XIh59zy9GAF-0"
   },
   {
     title: "ScanvoApp – FinTech / Business Productivity | UI/UX Designer",
