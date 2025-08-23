@@ -212,7 +212,7 @@ const Portfolio = () => {
             </p>
             <div className="hero-social animate-on-scroll fade-in-down stagger-3">
               <a
-                href="www.linkedin.com/in/zahra-khan"
+                href="https://www.linkedin.com/in/zahra-khan"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="social-link"
@@ -425,7 +425,7 @@ const Portfolio = () => {
                   <div>
                     <div className="contact-item-title">LinkedIn</div>
                     <a 
-                      href="www.linkedin.com/in/zahra-khan" 
+                      href="https://www.linkedin.com/in/zahra-khan" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="contact-item-text"
